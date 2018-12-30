@@ -17,5 +17,7 @@ function currentLine (line) {
     return 'The line is currently empty.'
   }
   let finalNamesNumbers = []
-  
+  for (let i=0; i<line.length; i++) {
+    
+  }
 }

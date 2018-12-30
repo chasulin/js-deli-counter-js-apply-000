@@ -20,6 +20,6 @@ function currentLine (line) {
   for (let i=0; i<line.length; i++) {
     namesNumbers.push(` ${i}. ${line[i]}`)
   }
-  return 'The line is currently' + line 
+  return 'The line is currently ' + line 
   }
 }
